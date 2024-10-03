@@ -13,6 +13,9 @@
 <a href="https://fb.com/muhammadmoeedqadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadmoeedqadri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@muhammadmoeedqadri" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m moeed qadri" height="30" width="40" /></a>
+<a href="wa.link/u77hxl" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
