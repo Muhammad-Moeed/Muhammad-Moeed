@@ -17,7 +17,7 @@
 
 <h3 align="left">My Portfolio:</h3>
 <p align="left">
-  <a href="(https://moeedportfolio.vercel.app/)" target="_blank"><strong>Visit my Portfolio</strong></a>
+  <a href="https://moeedportfolio.vercel.app/" target="_blank"><strong>Visit my Portfolio</strong></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
