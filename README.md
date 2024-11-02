@@ -15,10 +15,6 @@
 <a href="https://wa.link/u77hxl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Portfolio:</h3>
-<p align="left">
-  <a href="https://moeedportfolio.vercel.app/" target="_blank"><strong>Visit my Portfolio</strong></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
