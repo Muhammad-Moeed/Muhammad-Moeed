@@ -5,7 +5,7 @@
   <a href="https://muhammadmoeed.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/MuhammadMoeed?tab=repositories" target="_blank">
+  <a href="https://github.com/Muhammad-Moeed?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/💻 Projects-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:m.moeedq497@gmail.com" target="_blank">
