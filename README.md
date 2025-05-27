@@ -2,11 +2,20 @@
 <h3 align="center">Full Stack Developer (MERN) | Python Backend Enthusiast</h3>
 
 <p align="center">
-  <a href="https://muhammadmoeed.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/MuhammadMoeed?tab=repositories" target="_blank">💻 Projects</a> •
-  <a href="mailto:m.moeedq497@gmail.com" target="_blank">📩 Contact</a> •
-  <a href="https://www.linkedin.com/in/muhammad-moeed-qadri-977568269/" target="_blank">🔗 LinkedIn</a>
+  <a href="https://muhammadmoeed.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadMoeed?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/💻 Projects-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:m.moeedq497@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-moeed-qadri-977568269/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Learning+AI+%26+Cloud+Tech;Always+Leveling+Up!" alt="Typing Animation" />
