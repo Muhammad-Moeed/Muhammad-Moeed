@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Muhammad+Moeed;Full+Stack+MERN+Developer;AI+%7C+Automation+%7C+SaaS+Builder;Building+Smart+Digital+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FACC15&center=true&vCenter=true&width=650&lines=Muhammad+Moeed;Full+Stack+MERN+Developer;AI+%7C+Automation+%7C+SaaS+Builder;Building+Smart+Digital+Systems" />
 </h1>
+
+<h2 align="center">
+  <span style="color:#FACC15;">Muhammad Moeed</span>
+</h2>
 
 <h3 align="center">AI-Driven Full Stack Developer | MERN • AI Agents • Automation • SaaS</h3>
 
@@ -59,15 +63,6 @@ I build modern, scalable and intelligent web applications that solve real busine
 - AI + Automation integration focus
 - Clean, scalable architecture
 - Fast execution (startup-ready developer)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmoeed&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmoeed&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
