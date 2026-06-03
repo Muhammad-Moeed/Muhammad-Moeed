@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FACC15&center=true&vCenter=true&width=650&lines=Muhammad+Moeed;Full+Stack+MERN+Developer;AI+%7C+Automation+%7C+SaaS+Builder;Building+Smart+Digital+Systems" />
+  <span style="color:#FACC15;">HI I am</span>
 </h1>
 
-<h2 align="center">
-  <span style="color:#FACC15;">Muhammad Moeed</span>
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=Muhammad+Moeed" />
+</h1>
 
 <h3 align="center">AI-Driven Full Stack Developer | MERN • AI Agents • Automation • SaaS</h3>
 
