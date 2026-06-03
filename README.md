@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=FACC15&center=true&vCenter=true&width=700&lines=HI+I+am+Muhammad+Moeed" />
 </h1>
 
-<h3 align="center">AI-Driven Full Stack Developer | MERN • AI Agents • Automation • SaaS</h3>
+<h3 align="center">Full Stack Engineer | AI-Driven & Automation Systems Builder</h3>
 
 <p align="center">
 I build modern, scalable and intelligent web applications that solve real business problems using MERN stack, AI integrations and automation systems.
