@@ -1,106 +1,92 @@
-<h1 align="center">Muhammad Moeed</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Muhammad+Moeed;Full+Stack+MERN+Developer;AI+%7C+Automation+%7C+SaaS+Builder;Building+Smart+Digital+Systems" />
+</h1>
 
-<h3 align="center">AI-Driven Full Stack Developer | MERN • AI Agents • Automation • SaaS Builder</h3>
+<h3 align="center">AI-Driven Full Stack Developer | MERN • AI Agents • Automation • SaaS</h3>
 
 <p align="center">
-I build production-grade web applications, AI-powered systems, and automation solutions that help businesses scale, reduce manual work, and improve user experience.
+I build modern, scalable and intelligent web applications that solve real business problems using MERN stack, AI integrations and automation systems.
 </p>
 
+---
+
+## ⚡ Tech Stack
+
 <p align="center">
-  <a href="https://muhammadmoeed.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:m.moeedq497@gmail.com">
-    <img src="https://img.shields.io/badge/📩 Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-moeed-qadri-977568269/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,python,tailwind,firebase,docker,git,github,vscode" />
+</p>
+
+---
+
+## 🤖 AI & Automation Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI-ffb000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4A90E2?style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I am a Full Stack Developer specializing in **MERN stack, AI integrations, and automation systems**.  
-I focus on building real-world, scalable, and intelligent digital products.
+- Full Stack MERN Developer
+- AI Integration & Automation Builder
+- SaaS & Startup Product Developer
+- Focus on real-world scalable systems
+- Strong UI + Backend + API architecture understanding
 
-> **Build fast. Automate smart. Deliver real impact.**
+> “Build fast. Automate smart. Scale infinitely.”
 
 ---
 
 ## 🚀 What I Build
 
-- 🌐 Full Stack Web Applications (MERN / Next.js)
-- 🤖 AI-Powered Applications (Chatbots, AI Agents, Workflows)
-- ⚙️ Automation Systems (n8n, API workflows, integrations)
-- 📱 React Native Mobile Applications
-- 🧠 AI Integrations (OpenAI, Claude, custom LLM systems)
-- 🔗 Backend Systems & REST APIs
-- 💼 SaaS Platforms & Admin Dashboards
-
----
-
-## 🛠 Tech Stack
-
-### Frontend & Backend
-React.js • Next.js • React Native • Node.js • Express.js
-
-### Databases
-MongoDB • PostgreSQL
-
-### AI & Automation
-OpenAI API • Claude (Anthropic) • n8n • AI Agents • Prompt Engineering
-
-### Tools & DevOps
-Docker • Git & GitHub • Firebase • REST APIs • Postman
+- 🌐 Modern Web Apps (MERN / Next.js)
+- 🤖 AI Chatbots & AI Agents
+- ⚙️ Automation Systems (n8n + APIs)
+- 💼 SaaS Platforms & Dashboards
+- 📱 React Native Mobile Apps
+- 🔗 Backend APIs & System Design
 
 ---
 
 ## 🧩 What Makes Me Different
 
-- Focus on **real-world business problems**
-- Strong understanding of **AI + automation + system design**
-- Ability to build **end-to-end scalable products**
-- Clean, production-ready architecture
-- Fast execution with startup mindset
+- Product mindset (not just coding)
+- End-to-end system building ability
+- AI + Automation integration focus
+- Clean, scalable architecture
+- Fast execution (startup-ready developer)
 
 ---
 
-## 📌 Currently Focused On
+## 📊 GitHub Analytics
 
-- AI Agent-based systems
-- SaaS product development
-- Workflow automation (n8n + APIs)
-- Scalable backend architectures
-- Freelance & remote client work
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmoeed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmoeed&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let’s Build Something Together
-
-If you're a founder, startup, or business looking to build a scalable digital product or AI-powered system, I can help you turn your idea into a working product.
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://wa.link/u77hxl">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:m.moeedq497@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="linkedin.com/in/muhammad-moeed-qadri-977568269/">
+  <a href="https://linkedin.com/in/muhammad-moeed-qadri-977568269/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 Profile Views
+## 🔥 Closing
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadmoeed&label=PROFILE+VIEWS&color=0e75b6&style=flat"/>
-</p>
-
----
-
-> I don’t just build applications — I build intelligent systems that solve real business problems using modern web + AI technologies.
+> I don’t just build websites — I build intelligent digital systems powered by AI, automation and scalable architecture.
